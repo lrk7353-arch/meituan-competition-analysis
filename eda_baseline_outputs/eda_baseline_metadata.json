@@ -1,0 +1,7 @@
+{
+  "run_timestamp": 1775478335.20454,
+  "max_lag_hours": 4.0,
+  "fine_lag_minutes": 30,
+  "alpha_smooth": 1.0,
+  "total_valid_rows": 6807745
+}

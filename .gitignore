@@ -1,0 +1,11 @@
+﻿view_data.csv
+view_data.v1.csv
+view_data.v1.1.csv
+__pycache__/
+*.pyc
+*.zip
+cross_baseline_v2_outputs/
+cross_score_v1_outputs/
+dataset_reprofile_outputs/
+dataset_reprofile_outputs_v1_1/
+.claude/

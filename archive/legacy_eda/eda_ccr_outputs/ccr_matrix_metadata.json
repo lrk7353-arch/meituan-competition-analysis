@@ -1,0 +1,11 @@
+{
+  "data_path": "/home/konglingrui/meituan_project/view_data.csv",
+  "output_dir": "/home/konglingrui/meituan_project/eda_ccr_outputs",
+  "raw_rows": 6807745,
+  "transition_rows": 1305096,
+  "category_count": 73,
+  "min_pair_count": 20,
+  "top_k": 50,
+  "collapse_consecutive": true,
+  "exclude_self_transition": true
+}

@@ -1,0 +1,15 @@
+{
+  "data_path": "/home/konglingrui/meituan_project/view_data.csv",
+  "output_dir": "/home/konglingrui/meituan_project/eda_lift_outputs",
+  "raw_rows": 6807745,
+  "clean_rows": 6807745,
+  "transition_rows": 883616,
+  "category_count": 72,
+  "min_pair_count": 20,
+  "plot_min_pair_count": 30,
+  "top_k": 50,
+  "collapse_consecutive": true,
+  "exclude_self_transition": true,
+  "exclude_unknown_category": true,
+  "unknown_category_name": "未知品类"
+}
